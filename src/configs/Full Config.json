@@ -1,0 +1,139 @@
+"vBTC": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "BTC/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.05,
+    "LONG_TRIGGER_SPREAD": -0.05,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "BTCUSDT"
+},
+"vETH": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "ETH/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.05,
+    "LONG_TRIGGER_SPREAD": -0.05,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "ETHUSDT"
+}
+
+_______________________________________________________________________
+
+"vSOL": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "SOL/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.4,
+    "LONG_TRIGGER_SPREAD": -0.4,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "SOLUSDT"
+},
+"vBNB": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "BNB/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.2,
+    "LONG_TRIGGER_SPREAD": -0.2,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "BNBUSDT"
+},
+"vPERP": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "PERP/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.2,
+    "LONG_TRIGGER_SPREAD": -0.2,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "PERPUSDT"
+}
+
+_______________________________________________________________________
+
+"vNEAR": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "NEAR/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.2,
+    "LONG_TRIGGER_SPREAD": -0.2,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "NEARUSDT"
+},
+"vLINK": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "LINK/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.2,
+    "LONG_TRIGGER_SPREAD": -0.2,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "LINKUSDT"
+},
+"vAAVE": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "AAVE/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.2,
+    "LONG_TRIGGER_SPREAD": -0.2,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "AAVEUSDT"
+}
+
+_______________________________________________________________________
+
+"vAPE": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "APE/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.2,
+    "LONG_TRIGGER_SPREAD": -0.2,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "APEUSDT"
+},
+"vATOM": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "ATOM/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.2,
+    "LONG_TRIGGER_SPREAD": -0.2,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "ATOMUSDT"
+},
+"vCRV": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "CRV/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.2,
+    "LONG_TRIGGER_SPREAD": -0.2,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "CRVUSDT"
+}
+
+_______________________________________________________________________
+
+"vFTM": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "FTM/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.2,
+    "LONG_TRIGGER_SPREAD": -0.2,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "FTMUSDT"
+},
+"vMATIC": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "MATIC/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.2,
+    "LONG_TRIGGER_SPREAD": -0.2,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "MATICUSDT"
+},
+"vFLOW": {
+    "IS_ENABLED": true,
+    "FTX_MARKET_NAME": "FLOW/USD",
+    "ORDER_AMOUNT": 1000,
+    "SHORT_TRIGGER_SPREAD": 0.2,
+    "LONG_TRIGGER_SPREAD": -0.2,
+    "IS_EMERGENCY_REDUCE_MODE_ENABLED": false,
+    "SYMBOL": "FLOWUSDT"
+}
+
